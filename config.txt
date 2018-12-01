@@ -1,0 +1,7 @@
+?token=NTE4NDEwODQ5MjcxMDIxNTY4.DuQXrw.y_Ck2xs9nz8BTtl5JND02lGyPMw
+owner=394203622239502337
+prefix= A
+game= Ahelp | Alawy ,
+stayinchannel=true
+songinstatus=true 
+token=NTE4NDEwODQ5MjcxMDIxNTY4.DuQXrw.y_Ck2xs9nz8BTtl5JND02lGyPMw
